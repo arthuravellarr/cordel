@@ -62,15 +62,33 @@ section.no-image {
     color: black;
 }
 
+section.no-image > p.first{
+    padding-bottom: 7vh;
+}
+
 section.image {
     background-color: rgb(61, 61, 61);
     color: white;
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+    box-shadow: inset 6px 6px 13px 5px rgba(0, 0, 0, 0.314);
 }
 
 section.image > p {
     display: inline-block;
     padding: 10px;
-    background-color: rgba(0, 0, 0, 0.233);
+    background-color: rgba(0, 0, 0, 0.57);
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.814);
+    border-radius: 5px;
+}
+
+section#img-1 {
+    background-image: url(../imgs/background001.jpg);
+}   
+
+section#img-2 {
+    background-image: url(../imgs/background002.jpg);
 }
 
 footer {
