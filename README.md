@@ -1,6 +1,6 @@
 # cordel-moderno
 
-O projeto foi desenvolvido como parte dos estudos sobre HTML5 e CSS3 com o objetivo de implementar conceitos iniciais. 
+O projeto foi desenvolvido como parte dos estudos sobre HTML5 e CSS3 com o objetivo de implementar conceitos iniciais.
 
 ## Alguns dos conceitos estudados e aplicados incluem
 
