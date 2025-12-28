@@ -10,4 +10,4 @@ O projeto foi desenvolvido como parte dos estudos sobre HTML5 e CSS3 com o objet
 - **Efeito Paralax**: Imagens de fundo com efeito Paralax se mantendo estática enqunto a página rola com o conteúdo na frente;
 - **Importação de fontes**: Fontes importadas por URL do [Google Fontes](https://fonts.google.com/);
 - **Variáveis**: Uso de variáveis CSS para dinamizar e facilitar alterações;
-- **GitHub Pages**: Publicação da página/repo como página no GitHub Pages.
+- **GitHub Pages**: Publicação da página/repo como página no GitHub Pages: [Cordel Moderno](https://arthuravellarr.github.io/cordel).
